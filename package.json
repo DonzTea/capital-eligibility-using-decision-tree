@@ -1,0 +1,20 @@
+{
+  "name": "capital-eligibility-using-decision-tree",
+  "version": "1.0.0",
+  "description": "Implementation of decision tree algorithm step by step in the case of capital eligibility using ES6 syntax.",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "es6-easings": "^1.1.0",
+    "es6-scroll-to": "^1.1.2"
+  },
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  },
+  "scripts": {
+    "start": "./node_modules/.bin/http-server -c-1"
+  },
+  "keywords": [],
+  "author": "Doni Rahma Tiana",
+  "license": "ISC"
+}
